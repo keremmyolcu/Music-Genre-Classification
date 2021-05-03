@@ -3,7 +3,7 @@ My goal is to extract the acoustic features(librosa library is used) of each .wa
 \
 This project is not fully completed yet.\
 1)Feature extraction(to .csv file) ✓ \
-2)Training the models - \
+2)Training the models ✓ \
 3)Classifying a music file - \
 4)Creating a user interface - \
 \
